@@ -2,13 +2,18 @@ body {
   background-color: black;
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-weight: normal;
 
 }
 
 .header--main{
   font-weight: normal;
   font-size: 50px;
-  color:white;
+  color:#fff;
+
+}
+
+.link--{
+  font-size: 16px;
+  color:aquamarine;
   
 }
