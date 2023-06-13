@@ -24,6 +24,10 @@ body {
   font-size:21px;
 }
 
+.footer{
+  color:grey;
+  text-align: right;
+}
 
 /*LINKS*/
 .link--{
